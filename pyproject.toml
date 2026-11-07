@@ -1,0 +1,7 @@
+[project]
+name = "hadith-py-tabaqat-chronology"
+version = "1.0.0"
+description = "Narrator Chronological Overlap & Liqa' Feasibility Validator (مدقق المعاصرة واللقاء وتواريخ وفيات الرواة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
